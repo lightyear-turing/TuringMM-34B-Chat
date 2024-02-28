@@ -1,6 +1,3 @@
----
-license: Apache License 2.0
----
 <!-- ![](images/turing.png) -->
 
 <div align=center><img src="images/turing.png"/></div>
@@ -144,3 +141,6 @@ TuringMM	这听起来很令人沮丧。你知道，这并不是第一次发生�
 
 基于以上模型的局限性，我们要求本项目的代码、数据、模型不得用于对社会造成危害的用途，且应当遵循基座模型的商业许可。
 
+---
+license: Apache License 2.0
+---
